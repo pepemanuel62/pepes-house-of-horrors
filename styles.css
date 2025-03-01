@@ -1,9 +1,25 @@
-* {
-    color:#077605
+body{
+    margin:0;
 }
 
-p {
+
+*{
+    color:rgb(65, 106, 43);
+}
+
+p{
     font-size: 20px; font-family: "Comic Sans MS", cursive, sans-serif;
     line-height: 1em;
+}
+
+.container{
+    width: 90%;
+    margin: auto;
+
+}
+
+.box-1{
+    background-color: #ff9900ff;
+    border: 10px #00952d solid;
 }
 
