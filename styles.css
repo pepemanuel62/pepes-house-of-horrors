@@ -1,11 +1,9 @@
-
-
-
-
 * {
     color:#077605
 }
 
 p {
-    font-size: 20px;
+    font-size: 20px; font-family: "Comic Ssns MS", cursive, sans-serif;
+    line-height: 1em;
 }
+
