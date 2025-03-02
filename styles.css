@@ -1,10 +1,10 @@
-body{
-    margin:0;
+body {
+    margin:0
 }
 
 
 *{
-    color:rgb(65, 106, 43);
+    color:#416a2b;
 }
 
 p{
@@ -14,12 +14,36 @@ p{
 
 .container{
     width: 90%;
-    margin: auto;
-
+    margin:auto;
 }
 
 .box-1{
     background-color: #ff9900ff;
     border: 10px #00952d solid;
+    padding-top: 25px;
+    padding-right: 50px;
+    padding-bottom: 25px;
+    padding-left: 50px;
+    }
+
+.box-2{
+    background-color: #ff9900;
+    border: 10px #00952d solid;
+    font-size: 20px; 
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    line-height: 1em;
+    text-align: center;
 }
+
+.box-3{
+    text-align: center;
+}
+    
+
+
+
+    
+
+
+
 
