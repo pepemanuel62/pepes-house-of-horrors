@@ -12,13 +12,41 @@ p{
     line-height: 1em;
 }
 
+a{
+    text-decoration: none;
+    color: #00b500;
+    text-size:20px;
+}
+
+a:hover{
+    color: #0bd900
+}
+.joinBtn {
+    width: 10em;
+    height: 5ex;
+    background-color: #00dc00ff;
+    border-radius: 10px;
+    font-weight: bold;
+    color: black;
+    cursor: pointer;
+  }
+  
+  .joinBtn:hover {
+    background-color: #ff9900;
+ }
+
+ 
+
+
+
+  
 .container{
     width: 90%;
     margin:auto;
 }
 
 .box-1{
-    background-color: #ff9900ff;
+    background-color: #ff9900;
     border: 10px #00952d solid;
     padding-top: 25px;
     padding-right: 50px;
@@ -38,6 +66,9 @@ p{
 .box-3{
     text-align: center;
 }
+
+
+
     
 
 
