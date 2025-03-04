@@ -40,10 +40,16 @@ a:hover{
 
 
   
-.container{
+.container-1{
     width: 90%;
     margin:auto;
 }
+
+.container-2{
+    width: 600px;
+    margin: 0 auto;
+}
+
 
 .box-1{
     background-color: #ff9900;
@@ -65,7 +71,20 @@ a:hover{
 
 .box-3{
     text-align: center;
+    margin: 50px;
 }
+
+.box-4{
+    background-color:#fff;
+    text-align: center;
+    width: 100%;
+    margin: 0 auto;
+    padding: 25px;
+}
+
+
+
+
 
 
 
