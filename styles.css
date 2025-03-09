@@ -59,38 +59,19 @@ a:hover {
     border: 5px solid #000000;
     height: 500px;
     width: 1200px;
-    display: flex 1;
+    display: flex;
     flex-direction: column;
-    
-    
-   
-    
-    
-    
-    
+    align-items: center;
+    justify-content: center;
+    gap: 18px;
 }
     
-    
-    
-
-
-
-
-/*.item {
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-size: 20px;
-    display: flex 1;
-} */
- .flex-container div {
+    .item {
     background: #f0f0f0;
     border: 5px solid #000000;
     height: 50px;
     width: 1100px;
     margin: 5px;
-    flex: 1;
-    
-    
-    
     
 } 
     
