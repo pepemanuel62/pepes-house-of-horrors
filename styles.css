@@ -125,6 +125,17 @@ a:hover {
     padding: 25px;
 }
 
+.seperator {
+    height: 100px;
+    background-color: green;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.seperator p {
+    color: white;
+}
 
 
 
