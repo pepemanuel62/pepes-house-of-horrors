@@ -125,7 +125,7 @@ a:hover {
     padding: 25px;
 }
 
-.seperator {
+.abox {
     height: 100px;
     background-color: green;
     display: flex;
@@ -133,7 +133,7 @@ a:hover {
     align-items: center;
 }
 
-.seperator p {
+.abox p {
     color: white;
 }
 
