@@ -157,6 +157,11 @@ a:hover {
 
  /*.thing:nth-of-type(2) {
     align-self: start;
+ }*/
+
+ .new {
+    display: flex;
+    justify-content: center;
  }
 
 
