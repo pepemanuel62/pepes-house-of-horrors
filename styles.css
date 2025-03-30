@@ -137,7 +137,27 @@ a:hover {
     color: white;
 }
 
+.bucket {
+    height: 200px;
+    display: flex;
+    background-color: bisque;
+    justify-content: space-around;
+    align-items: center;
+}
 
+.thing {
+    height: 100px;
+    width: 100px;
+    background: #ff9900;
+    color: #fff;
+    margin: 10px;
+    display: flex;
+    justify-content: center;
+ }
+
+ /*.thing:nth-of-type(2) {
+    align-self: start;
+ }
 
 
 
